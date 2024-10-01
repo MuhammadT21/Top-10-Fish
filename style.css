@@ -1,0 +1,36 @@
+html {
+  background-image: url("img/Blobfish.jpg");
+}
+
+body {
+  background-color: white;
+  border: solid;
+  width: 600px;
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+  font-family: "Archivo Black", sans-serif;
+}
+
+p {
+  color: blue;
+}
+
+h2 {
+  color: blue;
+  text-align: center;
+}
+
+li {
+  color: blue;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
